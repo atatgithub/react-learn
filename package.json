@@ -1,0 +1,11 @@
+{
+  "name": "js-simple",
+  "version": "1.0.0",
+  "description": "node project with react",
+  "main": "abc.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "ajay tyagi",
+  "license": "ISC"
+}
